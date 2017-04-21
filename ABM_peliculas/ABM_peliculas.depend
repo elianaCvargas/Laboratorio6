@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492725927 source:/home/alumno/Documentos/Daniel Lugo/ABM_peliculas/F_Validaciones.c
+
+1492736021 source:/home/alumno/Documentos/Daniel Lugo/ABM_peliculas/F_Directores.c
+	"Prototipos.h"
+
+1492736021 /home/alumno/Documentos/Daniel Lugo/ABM_peliculas/Prototipos.h
+
+1492736409 source:/home/alumno/Documentos/Daniel Lugo/ABM_peliculas/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+	<stdio.h>
+
+1492736021 source:/home/alumno/Documentos/Daniel Lugo/ABM_peliculas/F_Peliculas.c
+	"Prototipos.h"
+
