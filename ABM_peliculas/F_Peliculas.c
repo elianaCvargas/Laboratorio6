@@ -61,8 +61,16 @@ void imprimirPeliculas(Pelicula peliculas[], int len_P, Director directores[], i
         {
             int directorID = peliculas[i].directorID;
             int indexDirector = BuscarDirectorPorID(directores,len_D,  directorID);
+            if(indexDirector >= 0)
+            {
+                printf("%s\t%s", peliculas[i].titulo, directores[i].nombre);//podemos agregar  el  id de la pelicula para mostrar
+            }
+            else
+            {
+                //imprimir pelicula
+            }
 
-            printf("%s\t%s", peliculas[i].titulo, directores[i].nombre);//podemos agregar  el  id de la pelicula para mostrar
+            
         }
 
     }
