@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493341253 source:/home/alumno/Escritorio/TP_2_Cascara/F_Persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493337183 /home/alumno/Escritorio/TP_2_Cascara/funciones.h
+
+1493336408 source:/home/alumno/Escritorio/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
